@@ -316,8 +316,6 @@
 >
 > 
 
-![](C:\Users\win\Desktop\멀티캠퍼스\HTML TEXTAREA.PNG)
-
 
 
 ## 2. HTML5 문서구조화
@@ -428,5 +426,3 @@
 ```
 
 
-
-![](C:\Users\win\Desktop\멀티캠퍼스\HTML SEMENTIC.PNG)
