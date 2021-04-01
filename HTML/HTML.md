@@ -6,16 +6,16 @@
 
 - 내용을 가질 수 있는 요소
   - `<요소이름>내용</요소이름>`
-  - EX) <h1>내용</h1>, <p></p>, <audio></audio>
+  - EX) `<h1>`내용</`h1>`, `<p></p>`, `<audio></audio>`
 - 내용을 가질 수 없는 요소
   - `<요소이름>`
-  - EX) <img>, <hr>, <br>
+  - EX) `<img>`, `<hr>`,` <br>`
 
 ##  2. 속성(ATTRIBUTE)
 
 >태그에 추가 정보를 부여할 때 사용하는 것
 
-- EX)  <h1 title = "header" >Hello HTML5</h1>
+- EX)  `<h1 title = "header" >`Hello HTML5`</h1>`
 - <>= 속성 블록, title= 속성이름, header= 속성 값, Hello HTML5= 내부문자
 
 
@@ -127,7 +127,7 @@
 |                 |   loop   |             음악 비디오 반복 여부 지정              |
 |                 | controls |        음악 비디오 재생 도구 출력 여부 지정         |
 
-- <`audio> 태그
+- `<audio> `태그
 
 ```html
 <body>
@@ -139,7 +139,7 @@
 </body>    
 ```
 
-- <`video>태그
+- `<video>`태그
 
 ``` html
 <body>
@@ -218,7 +218,7 @@
 
 ---
 
-- ### <label> 태그
+- ### `<label>` 태그
 
 > label 태그는 input 태그를 설명할 때 사용
 >
@@ -231,7 +231,7 @@
 </form>
 ```
 
-- ### <select> 태그
+- ### `<select> `태그
 
 > select 태그는 목록으로 보여주는 항목 중 하나 또는 여러 개를 선택할 때 사용하는 입력 양식 요소
 >
@@ -313,10 +313,8 @@
 >
 > <textarea>Textarea태그
 > Textarea태그</textarea>
->
-> 
 
-
+![](C:\Users\win\Desktop\멀티캠퍼스\HTML TEXTAREA.PNG)
 
 ## 2. HTML5 문서구조화
 
@@ -425,4 +423,4 @@
 </body>
 ```
 
-
+![](C:\Users\win\Desktop\멀티캠퍼스\HTML SEMENTIC.PNG)
