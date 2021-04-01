@@ -314,7 +314,7 @@
 > <textarea>Textarea태그
 > Textarea태그</textarea>
 
-![](C:\Users\win\Desktop\멀티캠퍼스\HTML TEXTAREA.PNG)
+![](.\img\HTML TEXTAREA.PNG)
 
 ## 2. HTML5 문서구조화
 
@@ -423,4 +423,4 @@
 </body>
 ```
 
-![](C:\Users\win\Desktop\멀티캠퍼스\HTML SEMENTIC.PNG)
+![](.\img\HTML SEMENTIC.PNG)
